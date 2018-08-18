@@ -5,6 +5,6 @@
     <title>Volgging</title>
   </head>
   <body>
-    <p>This website is purely made for logging</p>
+    <p align="center">This website is purely made for logging</p>
   </body>
 </html>
